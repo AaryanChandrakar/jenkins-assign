@@ -16,7 +16,7 @@ pipeline {
         }
         stage('Build') {
             steps {
-                bat 'python harivansh.py'
+                bat 'python aaryan.py'
             }
         }
 
